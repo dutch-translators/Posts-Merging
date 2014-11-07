@@ -32,7 +32,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 $lang = array_merge($lang, array(
 	'ACP_POSTS_MERGING'				=> 'Berichten samenvoegen',
-	'ACP_POSTS_MERGING_EXPLAIN'		=> 'Hier kun je de instellingen beheren voor de "Berichten samenvoegen" extensie.',
+	'ACP_POSTS_MERGING_EXPLAIN'		=> 'Hier kan je de instellingen beheren voor de "Berichten samenvoegen" extensie.',
 	'MERGE_INTERVAL'				=> 'Berichten samenvoegen interval',
 	'MERGE_INTERVAL_EXPLAIN'		=> 'Als een gebruiker meer dan 2 berichten plaatst binnen deze tijd, zullen de berichten worden samengevoegd tot 1 bericht. Informatie over de tijd van het vorige bericht zal bij het bericht worden geplaatst (voor elk bericht). Laat open of vul 0 in om uit te schakelen.',
 	'MERGE_NO_TOPICS'				=> 'Onderwerpen uitsluiten',
