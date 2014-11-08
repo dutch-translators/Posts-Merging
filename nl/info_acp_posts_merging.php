@@ -34,9 +34,9 @@ $lang = array_merge($lang, array(
 	'ACP_POSTS_MERGING'				=> 'Berichten samenvoegen',
 	'ACP_POSTS_MERGING_EXPLAIN'		=> 'Hier kan je de instellingen beheren voor de "Berichten samenvoegen" extensie.',
 	'MERGE_INTERVAL'				=> 'Berichten samenvoegen interval',
-	'MERGE_INTERVAL_EXPLAIN'		=> 'Als een gebruiker meer dan 2 berichten plaatst binnen deze tijd, zullen de berichten worden samengevoegd tot 1 bericht. Informatie over de tijd van het vorige bericht zal bij het bericht worden geplaatst (voor elk bericht). Laat open of vul 0 in om uit te schakelen.',
+	'MERGE_INTERVAL_EXPLAIN'		=> 'Als een gebruiker meer dan 2 berichten plaatst binnen deze tijd, dan zullen de berichten worden samengevoegd tot 1 bericht. Informatie over de tijd van het vorige bericht zal bij het bericht worden geplaatst (voor elk bericht). Laat open of vul 0 in om uit te schakelen.',
 	'MERGE_NO_TOPICS'				=> 'Onderwerpen uitsluiten',
-	'MERGE_NO_TOPICS_EXPLAIN'		=> 'Gescheiden met een komma de lijst met onderwerp ids waar berichten niet worden samengevoegd, als de functie is ingeschakeld.',
+	'MERGE_NO_TOPICS_EXPLAIN'		=> 'De lijst met onderwerp-ids, gescheiden door een komma, waar berichten niet worden samengevoegd, als de functie is ingeschakeld.',
 	'MERGE_NO_FORUMS'				=> 'Forums uitsluiten',
-	'MERGE_NO_FORUMS_EXPLAIN'		=> 'Gescheiden met een komma de lijst met forum ids waar berichten niet worden samengevoegd, als de functie is ingeschakeld.',
+	'MERGE_NO_FORUMS_EXPLAIN'		=> 'De lijst met forum-ids, gescheiden door een komma, waar berichten niet worden samengevoegd, als de functie is ingeschakeld.',
 ));
